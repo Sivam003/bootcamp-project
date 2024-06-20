@@ -1,14 +1,16 @@
-# Wholesale Data Analysis
+# Wholesale Distributor Dataset
 
-Data
-A wholesale distributor operating in different regions of Portugal has information on annual spending of several items in their stores across different regions and channels. The data consists of 440 large retailers’ annual spending on 6 different varieties of productsin 3 different regions (Lisbon, Oporto, Other) and across different sales channel (Hotel, Retail).
+## Overview
+A wholesale distributor operates across different regions of Portugal, managing annual spending data from 440 large retailers. The dataset captures expenditures across various product categories and sales channels.
 
-Data Description
-1.Buyer/Spender- ID's of customers
-2.Region- Region of the distributor
-3.Fresh- spending on Fresh Vegetables
-4.Milk- spending on milk
-5.Grocery- spending on grocery
-6.Frozen- spending on frozen food
-7.Detergents_paper- spending on detergents and toilet paper
-8.Delicatessen- spending on instant foods
+## Data Description
+The dataset includes the following attributes:
+
+1. **Buyer/Spender**: Unique IDs assigned to customers.
+2. **Region**: Geographic area served by the distributor (Lisbon, Oporto, Other).
+3. **Fresh**: Expenditure on fresh vegetables.
+4. **Milk**: Expenditure on milk products.
+5. **Grocery**: Expenditure on grocery items.
+6. **Frozen**: Expenditure on frozen food products.
+7. **Detergents_paper**: Expenditure on detergents and toilet paper.
+8. **Delicatessen**: Expenditure on instant foods.
